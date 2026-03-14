@@ -1,0 +1,5 @@
+module.exports = {
+  BOT_TOKEN: "PASTE_BOT_TOKEN_HERE",
+  ADMIN_ID: "PASTE_ADMIN_ID_HERE",
+  PAYMENT_TIME: 600000
+};
